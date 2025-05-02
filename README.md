@@ -24,3 +24,5 @@ User data is treated with strict confidentiality. All personal health informatio
 Scalable and Continuously Improving
 With ongoing input and data collection, the system evolves to offer better predictions and more relevant recommendations over time. The machine learning models are designed to adapt and improve through continuous learning.
 
+
+
